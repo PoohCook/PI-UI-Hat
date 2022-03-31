@@ -1,0 +1,6 @@
+Comment,Designator,Footprint, LCSC Part #
+0.1uF,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C17, C18",Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C49678
+1.0uf,"C12, C13, C14, C15, C16",Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C28323
+WS2812B,"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10",LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,C2761795
+ST232CDR,U1,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,C6869
+TM1650,U2,Package_SO:SOP-16_4.55x10.3mm_P1.27mm,C44444
